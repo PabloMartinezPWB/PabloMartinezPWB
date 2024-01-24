@@ -1,7 +1,5 @@
 # Bienvenido a Mi Perfil de GitHub 👋
 
-<img src="https://bim6d.eu/wp-content/uploads/2022/03/PMT_50.jpg" alt="drawing" width="500"/>
-
 Soy Pablo Martinez, el **Chief Data Officer (CDO) y Especialista en DevOps** en [POWERBIM](https://powerbim.io/). Apasionado por impulsar la innovación y la eficiencia a través de soluciones tecnológicas avanzadas. 🚀
 
 ---
