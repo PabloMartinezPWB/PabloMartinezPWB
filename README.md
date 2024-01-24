@@ -35,6 +35,6 @@ Me comprometo a aprender continuamente y adoptar las últimas tendencias en tecn
 
 ## 📫 Cómo contactarme
 
-- **LinkedIn:** [Tu perfil de LinkedIn](https://es.linkedin.com/in/pmartinezdev)
-- **Correo Electrónico:** [tuemail@powerbim.com](mailto:pablo.martinez@powerbim.com)
+- **LinkedIn:** [pmartinezdev](https://es.linkedin.com/in/pmartinezdev)
+- **Correo Electrónico:** [pablo.martinez@powerbim.com](mailto:pablo.martinez@powerbim.com)
 
